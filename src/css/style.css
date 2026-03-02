@@ -387,3 +387,7 @@ a {
         transform: scale(1.2);
     }
 }
+
+html{
+    scroll-behavior: smooth;
+}
